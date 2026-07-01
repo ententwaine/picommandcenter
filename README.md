@@ -54,3 +54,6 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## 🚀 Live Deployments
+This application is compiled for static hosting on Vercel at [picommandcenter.vercel.app](https://picommandcenter.vercel.app).
